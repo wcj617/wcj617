@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcj617)](https://github.com/anuraghazra/github-readme-stats)
 
